@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Тестовое приложение</string>
-    <string name="title_activity_title">Title</string>
+    <string name="app_name">КДН</string>
+    <string name="title_activity_title">Выбор населенного пункта</string>
 </resources>
